@@ -1,0 +1,167 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Deedy - One Page Two Column Resume
+% LaTeX Template
+% Version 1.1 (30/4/2014)
+%
+% Original author:
+% Debarghya Das (http://debarghyadas.com)
+%
+% Resumegen:
+% WriteCodeEveryday(http://WriteCodeEveryday.github.io/)
+% Original repository:
+% https://github.com/deedydas/Deedy-Resume
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[]{deedy-resume-openfont}
+
+
+\begin{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     LAST UPDATED DATE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\lastupdated
+
+\namesection{Rishav}{Kumar}{
+\urlstyle{same}\url{rishavkumar.net} \\
+\href{mailto:rachana.rishav@gmail.com}{rachana.rishav@gmail.com} |
+(+91) 9475398869}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN ONE
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{minipage}[t]{0.33\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     EDUCATION
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Education}
+
+\subsection{Delhi Public School}
+\descript{11-12th grades}
+\location{Expect.Grad. May 2020}
+\location{Valedictorian}
+\sectionsep
+
+\subsection{St. Xavier's School}
+\descript{Started schooling}
+\location{March 2018}
+\location{Token of Honor recipent for 4 consecutive years}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     LINKS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Links}
+
+Published research work at ijesc.org :// \href{https://bit.ly/2Nqh2pJ}{\custombold{Published paper on Decentralized Cloud storage through Peer to Peer Networking using Blockchain at International Journal of Engineering, Science and Computing.}} \\ 
+:// \href{}{\custombold{}} \\ 
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     COURSEWORK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Coursework}
+
+\subsection{Online coursework.}
+Architecturing Distributed Cloud Applications- Microsoft\\
+Blockchain Fundamentals - UC, Berkeley\\
+How VR works -UC San Diego\\
+ \\
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     SKILLS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Skills}
+
+\subsection{Technical skills.}
+\location{Programming}
+Proficiency:Java, C++ HTML, Unix. \textbullet{} Familiar: Python. \textbullet{} VR development platforms: Unreal engine and Unity3D \\
+Familiar : Arduinos, Node MCU's
+\sectionsep
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%
+%     COLUMN TWO
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.66\textwidth}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     RESEARCH
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Research}
+
+\runsubsection{DeStore}
+\descript{|  Lead Developer}
+\location{Aug 2018- Oct 2019 | Jadavpur University, Kolkata, IN}
+Developed DeStore:A Novel approach to Decentralized Cloud storage through Peer to Peer Networking using Blockchain \\ 
+\sectionsep
+
+\runsubsection{Alter-work}
+\descript{| Front-end developer}
+\location{Aug 2016- July 2017 | Durgapur}
+An immersive and interactive virtual workplace ,a Mixed Reality platform, for collaboration in real-time specially designed for buisness and education purposes. \\ 
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     AWARDS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\
+\
+\section{Awards}
+
+
+\begin{tabular}{rll}
+2019 & Top-50/3rd Level & Tech-creation champion at Ideate for India,Nationals.\\
+2019 & Grand Award Winner & CBSE National Science Exhibition 2nd Level\\ 
+2018 & 3rd Prize & National Inter-school Materials quiz by IIM, Kolkata \\ 
+2017 & Qualified Regionals & Regional Mathematics Olympiad.\\ 
+2017 & Participant(Ethics) & International Equamanity Olympiad \\
+2019 & Galileo Gen-2& Intel award for excellence in innovation
+
+\end{tabular}
+\sectionsep
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%    Societies
+%
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\
+\
+\section{Societies}
+\\
+\\
+
+\begin{tabular}{rll}
+2019 & President  & Tech Club, DPS Kolkata.\\ 
+
+2019 & Captain & Kaveri House, DPS Kolkata\\ 
+
+2017 & Member & Student Government,St. Xavier's School\\
+
+2016 & Band Member & Vocals and Bass Guitar, St. Xavier's school \\ 
+
+2019 & Volunteer & Sarva Shiksha abhiyan (Education for all)\\ 
+
+2019 & Head & Logistics Department, Interact Club\\ 
+
+\end{tabular}
+\sectionsep
+
+\end{minipage}
+\end{document}  \documentclass[]{article}
